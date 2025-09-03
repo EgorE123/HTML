@@ -1,0 +1,27 @@
+
+.fruct{
+    background-color:#9E354A;
+    padding: 10px;
+    margin: 0px 240px 0px -280px;
+    color:#DCBFD1;
+}
+.number{
+    background-color:#C56275;
+    padding: 10px 0px 10px 10px;
+    margin: 0px 0px 0px 0px;
+    width: 300px;
+    color:#DCBFD1;
+
+}
+/* body {
+    background-color: #ED9EAE;
+    padding: 10px;
+    margin: 5px 5px 5px 5px;
+    border: 20px solid rgb(25, 16, 206);
+} */
+.table{
+    background-color: #ED9EAE;
+    padding: 10px;
+    margin: 5px 870px 5px 5px;
+   
+}

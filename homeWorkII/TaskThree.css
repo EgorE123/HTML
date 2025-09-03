@@ -1,0 +1,21 @@
+body{
+    background-color:#f5f5f5 ;
+}
+dt{
+    margin-top: 20px;
+}
+.i-term{
+    font-style: italic;
+}
+.general{
+    line-height: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+
+}
+.black{
+
+}
+.grey{
+    color: grey ;
+}
